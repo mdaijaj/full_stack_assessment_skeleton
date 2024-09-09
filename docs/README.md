@@ -331,4 +331,36 @@ docker-compose -f docker-compose.initial.yml down
 ### submit the fork url
 
 - when you've committed everything needed to your github fork, please share the url with us, so we can review your submission
-  
+- 
+### Submit the Assignment:-
+### Stack and Technolgy use this assignment:-
+#### Backend:-
+  Nodejs
+  express framework
+#### Database:-
+  Mysql Sequlize ORM
+#### Frontend:-
+Javascript 
+Reactjs  <br/>
+
+#### How to run project
+Backend:-
+- Clone the repository and navigate to the project directory:- <br>
+`git clone https://github.com/mdaijaj/full_stack_assessment_skeleton.git` <br>
+`cd full_stack_assessment_skeleton` <br>
+
+- install all packages using commands <br>
+`npm install -f`  <br>
+
+- create database in your local mysql same databaseName <br>
+  `create database db_name` <br>
+- and start project <br>
+`npm start or nodemon server.js`
+
+Fronted:-
+- `cd full_stack_assessment_skeleton` <br>
+`cd fronted` <br>
+- install all packages using commands <br>
+` npm install -f`  <br>
+- npm start <br>
+
